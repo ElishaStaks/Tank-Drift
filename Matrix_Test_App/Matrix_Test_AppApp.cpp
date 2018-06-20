@@ -67,7 +67,8 @@ bool Matrix_Test_AppApp::startup() {
 	// centres the tank with the height and width of the screen 
 	m_tank->SetPosition(100.0f, 100.0f); //I CHANGED THIS ELI
 	m_tracks->SetPosition(100.0f, 100.0f); //AND THIS TOO
-	width = m_tank->m_texture->getWidth() / 2;	height = m_tank->m_texture->getHeight() / 2;
+	width = m_tank->m_texture->getWidth() / 2;
+	height = m_tank->m_texture->getHeight() / 2;
 	return true;
 }
 
@@ -173,7 +174,7 @@ void Matrix_Test_AppApp::update(float deltaTime) {
 	 if (input->isKeyDown(aie::INPUT_KEY_W))
 	 {
 		 // adds more acceleration to the tank to move forward every frame
-		 AddForce(facing * 180 );
+		 AddForce(facing * 180);
 		 m_tank->minimum.m_y += m_velocity.m_y * deltaTime;
 		 m_tank->maximum.m_y += m_velocity.m_y * deltaTime;
 
@@ -400,7 +401,9 @@ void Matrix_Test_AppApp::draw() {
 	m_2dRenderer->drawLine(m_corners.m_x + m_tank->m_texture->getWidth() /2, m_corners.m_y - m_tank->m_texture->getHeight() / 2,
 		                   m_corners.m_x + m_tank->m_texture->getWidth() /2, m_corners.m_y + m_tank->m_texture->getHeight() / 2, 5);
 	m_2dRenderer->drawLine(m_corners.m_x - m_tank->m_texture->getWidth() /2, m_corners.m_y - m_tank->m_texture->getHeight() / 2,
-		                   m_corners.m_x + m_tank->m_texture->getWidth() /2, m_corners.m_y - m_tank->m_texture->getHeight() / 2, 5);
+		                   m_corners.m_x + m_tank->m_texture->getWidth() /2, m_corners.m_y - m_tank->m_texture->getHeight() / 2, 5);
+
+
 	
 	// output some text, uses the last used colour
 	m_2dRenderer->drawText(m_font, "Press ESC to quit", 0, 0);

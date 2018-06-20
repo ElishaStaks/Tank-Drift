@@ -1,25 +1,25 @@
 ﻿  Vector4.cpp
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector4.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector4.cpp(92): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector4.cpp(109): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector4.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector4.cpp(92): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector4.cpp(109): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Vector3.cpp
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector3.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector3.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector3.cpp(126): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector3.cpp(142): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector3.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector3.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector3.cpp(126): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector3.cpp(142): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Vector2.cpp
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector2.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector2.cpp(94): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-c:\users\s181333\desktop\matrix_test_applatest - copy\matrix_test_appv2\matrix_test_app\matrix_test_app\matrix_test_app\maths_lib\maths_lib\vector2.cpp(109): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector2.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector2.cpp(94): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\s181333\desktop\tank-drift\trunk\maths_lib\maths_lib\vector2.cpp(109): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Matrix4.cpp
   Matrix3.cpp
   Matrix2.cpp
   Generating Code...
-  Maths_Lib.vcxproj -> C:\Users\s181333\Desktop\Matrix_Test_AppLATEST - Copy\Matrix_Test_Appv2\Matrix_Test_App\Matrix_Test_App\Matrix_Test_App\dependencies\Debug\Maths_Lib.lib
-  C:\Users\s181333\Desktop\Matrix_Test_AppLATEST - Copy\Matrix_Test_Appv2\Matrix_Test_App\Matrix_Test_App\Matrix_Test_App\Maths_Lib\Maths_Lib\\Matrix2.h
-  C:\Users\s181333\Desktop\Matrix_Test_AppLATEST - Copy\Matrix_Test_Appv2\Matrix_Test_App\Matrix_Test_App\Matrix_Test_App\Maths_Lib\Maths_Lib\\Matrix3.h
-  C:\Users\s181333\Desktop\Matrix_Test_AppLATEST - Copy\Matrix_Test_Appv2\Matrix_Test_App\Matrix_Test_App\Matrix_Test_App\Maths_Lib\Maths_Lib\\Matrix4.h
-  C:\Users\s181333\Desktop\Matrix_Test_AppLATEST - Copy\Matrix_Test_Appv2\Matrix_Test_App\Matrix_Test_App\Matrix_Test_App\Maths_Lib\Maths_Lib\\Vector2.h
-  C:\Users\s181333\Desktop\Matrix_Test_AppLATEST - Copy\Matrix_Test_Appv2\Matrix_Test_App\Matrix_Test_App\Matrix_Test_App\Maths_Lib\Maths_Lib\\Vector3.h
-  C:\Users\s181333\Desktop\Matrix_Test_AppLATEST - Copy\Matrix_Test_Appv2\Matrix_Test_App\Matrix_Test_App\Matrix_Test_App\Maths_Lib\Maths_Lib\\Vector4.h
+  Maths_Lib.vcxproj -> C:\Users\s181333\Desktop\Tank-Drift\trunk\dependencies\Debug\Maths_Lib.lib
+  C:\Users\s181333\Desktop\Tank-Drift\trunk\Maths_Lib\Maths_Lib\\Matrix2.h
+  C:\Users\s181333\Desktop\Tank-Drift\trunk\Maths_Lib\Maths_Lib\\Matrix3.h
+  C:\Users\s181333\Desktop\Tank-Drift\trunk\Maths_Lib\Maths_Lib\\Matrix4.h
+  C:\Users\s181333\Desktop\Tank-Drift\trunk\Maths_Lib\Maths_Lib\\Vector2.h
+  C:\Users\s181333\Desktop\Tank-Drift\trunk\Maths_Lib\Maths_Lib\\Vector3.h
+  C:\Users\s181333\Desktop\Tank-Drift\trunk\Maths_Lib\Maths_Lib\\Vector4.h
           6 file(s) copied.

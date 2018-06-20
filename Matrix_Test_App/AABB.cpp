@@ -85,5 +85,3 @@ bool AABB::secondOverLaps(const AABB & other) const
 	return !(maximum.m_x < other.minimum.m_x || maximum.m_y < other.minimum.m_y ||
 		     minimum.m_x > other.maximum.m_x || minimum.m_y > other.maximum.m_y);
 }
-
-
